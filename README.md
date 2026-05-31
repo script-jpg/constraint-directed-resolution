@@ -12,3 +12,5 @@ To build do the following:
 2. Clone the repo and cd into the root
 3. Do `lake exe cache get`
 4. Do `lake build`
+## Acknowledgements
+We acknowledge proof support from Aristotle (Harmonic)
