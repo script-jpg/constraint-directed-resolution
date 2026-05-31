@@ -18,7 +18,8 @@ roots = [
   "examples.program_examples.manual_proofs",
   "examples.program_examples.bad_index",
   "examples.program_examples.proof_failure",
-  "examples.program_examples.multiple_modules"
+  "examples.program_examples.multiple_modules",
+  "examples.program_examples.proof_failure_fix"
 ]
 
 [[require]]
